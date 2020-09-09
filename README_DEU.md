@@ -12,7 +12,7 @@ Um die AIV Dateien zum Spiel hinzuzufügen, mach folgendes:
 
 1.) Erstelle zuerst einen backup Ordner für die originalen AIV Dateien (optional).
 
-2.) Lade die neuen AIV Dateien herunter. (die Dateien befinden sich im Ordner FAPLZ, bzw in der Datei FAPLZ.7z)
+2.) Lade die neuen AIV Dateien herunter (die Dateien befinden sich im Ordner FAPLZ, bzw in der Datei FAPLZ.7z).
 
 3.) Ersetze die alten AIV Dateien mit den neuen, indem man die neuen AIV Dateien in den AIV Ordner einfügt (standardmäßig: C:\Program Files (x86)\Firefly Studios\Stronghold Crusader\aiv).
 
