@@ -10,7 +10,7 @@ There are 8 new AIV's for every AI character.
 -
 To add these files in your game, follow these steps:
 
-1.) make a backup folder for the original AIV files (optional)
+1.) make a backup folder for the original AIV files (optional).
 
 2.) download the new AIV files (the files are located in the folder: FAPLZ, respectively in the file: FAPLZ.7z).
 
