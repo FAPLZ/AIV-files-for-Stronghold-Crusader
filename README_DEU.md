@@ -10,14 +10,14 @@ Es sind insgesamt 8 neue AIV's für jeden KI Charakter
 -
 Um die AIV Dateien zum Spiel hinzuzufügen, mach folgendes:
 
-1.) Erstelle zuerst einen backup Ordner für die original AIV Dateien (optional).
+1.) Erstelle zuerst einen backup Ordner für die originalen AIV Dateien (optional).
 
 2.) Lade die neuen AIV Dateien herunter.
 
-3.) Ersetze die alten AIV Dateien mit den neuen, indem man einfach die neuen AIV Dateien in den AIV Ordner einfügt (standardmäßig: C:\Program Files (x86)\Firefly Studios\Stronghold Crusader\aiv).
+3.) Ersetze die alten AIV Dateien mit den neuen, indem man die neuen AIV Dateien in den AIV Ordner einfügt (standardmäßig: C:\Program Files (x86)\Firefly Studios\Stronghold Crusader\aiv).
 
 3.)Information
 -
-Wenn man wieder mit den original AIV Dateien spielen möchte, dann ersetzt man einfach die geänderten AIV Dateien mit den originalen..
+Wenn man wieder mit den original AIV Dateien spielen möchte, dann ersetzt man einfach die geänderten AIV Dateien mit den originalen.
 
-Die originalen AIV Dateien können hier auch nochmal heruntergeladen werden.
+Die originalen AIV Dateien können hier auch nochmal als backup heruntergeladen werden.
