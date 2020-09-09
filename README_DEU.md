@@ -4,7 +4,7 @@
 -
 Hier kann man AIV (Artificial Intelligence Village; bzw.: Burglayouts für die KI) Dateien, für das Videospiel: Stronghold Crusader herunterladen.
 
-Es sind insgesamt 8 neue AIV's für jeden KI Charakter
+Es sind insgesamt 8 neue AIV's für jeden KI Charakter.
 
 2.)Installation
 -
