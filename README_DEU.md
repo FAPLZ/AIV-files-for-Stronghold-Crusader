@@ -8,7 +8,7 @@ Es sind insgesamt 8 neue AIV's für jeden KI Charakter.
 
 2.)Installation
 -
-Um die AIV Dateien zum Spiel hinzuzufügen, mach folgendes:
+Um die AIV Dateien zum Spiel hinzuzufügen, führe folgende Schritte aus:
 
 1.) Erstelle zuerst einen backup Ordner für die originalen AIV Dateien (optional).
 
