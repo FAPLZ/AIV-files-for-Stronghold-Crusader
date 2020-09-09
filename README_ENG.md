@@ -23,3 +23,5 @@ If you want to use the original AIV files, then take the original AIV files and 
 Here you can also download backup files for the original AIV files.
 
 It is possible to download the AIV files as a compressed 7-Zip file or each separately.
+
+In the folder 'fotos' are pictures of every castle.
