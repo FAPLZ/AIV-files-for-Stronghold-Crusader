@@ -23,3 +23,5 @@ Wenn man wieder mit den original AIV Dateien spielen möchte, dann ersetzt man e
 Die originalen AIV Dateien können hier auch nochmal als backup heruntergeladen werden.
 
 Es besteht die Möglichkeit die AIV Dateien als komprimierte 7-Zip Datei, oder jede einzeln herunterzuladen.
+
+Alle AIV Dateien sind auch bei Stronghold Heaven verfügbar (link: http://stronghold.heavengames.com/downloads/showfile.php?fileid=8495 )
