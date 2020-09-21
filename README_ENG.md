@@ -25,3 +25,5 @@ Here you can also download backup files for the original AIV files.
 It is possible to download the AIV files as a compressed 7-Zip file or each separately.
 
 In the folder 'fotos' are pictures of every castle.
+
+All AIV files are also available at Stronghold Heaven (link: http://stronghold.heavengames.com/downloads/showfile.php?fileid=8495 )
