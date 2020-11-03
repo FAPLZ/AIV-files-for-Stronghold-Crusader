@@ -1,6 +1,6 @@
 # AIV-files-for-Stronghold-Crusader
 
-Here You can download more then 128 AIV files, 8 castles each for every Lord, for the game Stronghold Crusader.
+Here You can download 128 AIV files, 8 castles each for every Lord and some extra AIV files, for the game Stronghold Crusader.
 
 
 
