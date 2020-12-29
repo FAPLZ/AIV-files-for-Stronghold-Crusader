@@ -1,6 +1,6 @@
-# AIV-files-for-Stronghold-Crusader
+# AIV-files-for-Stronghold-Crusader, for the Vanilla Version
 
-Here You can download 128 AIV files, 8 castles each for every Lord and some extra AIV files, for the game Stronghold Crusader.
+Here You can download 128 AIV files, 8 castles each for every Lord and some alternative AIV files, for the Vanilla version of the game Stronghold Crusader.
 
 
 
@@ -14,5 +14,6 @@ If there are problems to download, or you cant get the files via Github, then yo
 
 
 Also check out the AIC files from Xander10alpha, who helped me testing my AIV files (link: https://github.com/Xander10alpha/AICs-Xander10alpha).
+Or look for my own AIC files, with extra AIV files for it (link: https://github.com/FAPLZ/FAPLZ_AIC).
 
-These AIC files make the AI more powerfull and effectiv and work very well with the AIV files you can download here.
+Both AIC files make the AI more powerfull and effectiv and also work very well with the AIV files you can download here.
