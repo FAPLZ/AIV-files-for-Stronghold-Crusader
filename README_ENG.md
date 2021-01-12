@@ -12,7 +12,7 @@ To add these files in your game, follow these steps:
 
 1.) make a backup folder for the original AIV files (optional).
 
-2.) download the new AIV files (the files are located in the folder: FAPLZ, respectively in the file: FAPLZ.7z).
+2.) download the new AIV files (the files are located in the folder: FAPLZ, or you download the .zip file; FAPLZ_AIV_files_Vanilla.zip).
 
 3.) just add the new AIV files into the AIV folder (default: C:\Program Files (x86)\Firefly Studios\Stronghold Crusader\aiv).
 
